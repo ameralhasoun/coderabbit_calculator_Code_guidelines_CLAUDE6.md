@@ -1,0 +1,1 @@
+# coderabbit_calculator_Code_guidelines_CLAUDE6.md
